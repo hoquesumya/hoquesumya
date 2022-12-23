@@ -4,7 +4,7 @@ I am Sumya :princess:
 🔭 I’m currently a third year undergraduate at Columbia Univeristy, doing my major in Computer Science.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?height=300&text=Hi%20There👋&fontSize=40&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There👋<br>I%10am%10Sumya&fontSize=40&animation=fadeIn&type=waving&color=gradient&height=200" />
 
 </p>
 <!-- - 🌱 I’m currently learning ...

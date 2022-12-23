@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Sumya 
+I am Sumya :princess:
 
 🔭 I’m currently a third year undergraduate at Columbia Univeristy, doing my major in Computer Science.
 <!-- - 🌱 I’m currently learning ...

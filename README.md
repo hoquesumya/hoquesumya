@@ -1,7 +1,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20There👋%I%20am%20Sumya👸&fontSize=40&animation=fadeIn&type=waving&color=gradient&height=100" />
- <br> 🔭 I’m currently a third year undergraduate at Columbia Univeristy, doing my major in Computer Science.
+ <br> 
+  <iframe src="https://giphy.com/embed/fJ1xbyUH5BV5u" width="288" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-girl-cute-fJ1xbyUH5BV5u">via GIPHY</a></p>
+  <br>
+  🔭 I’m currently a third year undergraduate at Columbia Univeristy, doing my major in Computer Science.
 </p>
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

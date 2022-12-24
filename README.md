@@ -19,7 +19,7 @@
 <div>
   <h3>👨🏻‍💻 A liitle bit About me</h3>
   <ul>
-     💻 I am a third year undergraudate Computer Science student in Columbia University.
+     💻 I am a third year undergraudate Computer Science student in Columbia University.<br>
      🌟 I am PI-Theta and NSF scholarship recipient
      
       

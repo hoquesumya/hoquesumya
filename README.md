@@ -16,6 +16,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div align ="center">
   <h1>👨🏻‍💻 A liitle bit About me</h1>
  </div>

@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20There👋%I%20am%20Sumya👸&fontSize=40&animation=fadeIn&type=waving&color=gradient&height=100" />
  <br> 
- <img src="https://media.giphy.com/media/862A6X2sooSsw/giphy.gif" />
+ <img src="https://media.giphy.com/media/AHj0lQstZ9I9W/giphy.gif" />
 
  <!-- <p><a href="https://giphy.com/gifs/anime-girl-cute-fJ1xbyUH5BV5u"></a></p> -->
   <br>

@@ -18,9 +18,9 @@
 -->
 <div>
   <h3>👨🏻‍💻 A liitle bit About me</h3>
+  <ul>
+     💻 I am a third year undergraudate Computer Science student in Columbia University.
+   
+  </ul>
  </div>
-<div style="background:https://capsule-render.vercel.app/api;height=400">
-  💻 I am a third year undergraudate Computer Science student in Columbia University.
-  
- </div>
- 
+

@@ -18,7 +18,7 @@
 -->
 <div>
   <h3>👨🏻‍💻 A liitle bit About me</h3>
-  <ul style= "font-family: 'Dancing Script', cursive;">
+  <ul style= "color:bule;font-family: 'Dancing Script', cursive;">
      💻 I am a third year undergraudate Computer Science student in Columbia University.
    
   </ul>

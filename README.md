@@ -6,7 +6,7 @@
 
  <!-- <p><a href="https://giphy.com/gifs/anime-girl-cute-fJ1xbyUH5BV5u"></a></p> -->
   <br>
-  🔭 I’m currently a third year undergraduate at Columbia Univeristy, doing my major in Computer Science.
+  
 </p>
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,6 +16,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align ="center">
-  <h1>👨🏻‍💻 A liitle bit About me</h1>
+<div>
+  <h3>👨🏻‍💻 A liitle bit About me</h3>
  </div>
+<div style="background:https://capsule-render.vercel.app/api;height=400">
+ </div>
+ 

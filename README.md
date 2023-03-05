@@ -4,7 +4,7 @@
  <br> 
  <img src="https://media.giphy.com/media/4NAhZiqIdmHSw/giphy.gif" />
   
-<img src ="https://giphy.com/gifs/funimation-attack-on-titan-shingeki-no-kyojin-xUPGcC4A6ElcqtUJck" />
+<img src = "https://media.giphy.com/media/wJ8QGSXasDvPy/giphy.gif" />
 
  <!-- <p><a href="https://giphy.com/gifs/anime-girl-cute-fJ1xbyUH5BV5u"></a></p> -->
   <br>

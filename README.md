@@ -5,8 +5,7 @@
 <!--- <img src="https://media.giphy.com/media/4NAhZiqIdmHSw/giphy.gif" /> -->
   
 <img src = "https://gfycat.com/courteouselaborateguineafowl" />
-  <div style='position:relative; padding-bottom:calc(71.60% + 44px)'><iframe src='https://gfycat.com/ifr/AjarDarlingGoldenretriever' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/anime-gifs">from Anime GIFs</a> <a href="https://gfycat.com/ajardarlinggoldenretriever-sadness-hi-bye-animegifs">via Gfycat</a></p>
-
+ 
  <!-- <p><a href="https://giphy.com/gifs/anime-girl-cute-fJ1xbyUH5BV5u"></a></p> -->
   <br>
 </p>

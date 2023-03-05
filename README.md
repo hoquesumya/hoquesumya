@@ -4,7 +4,7 @@
  <br> 
 <!--- <img src="https://media.giphy.com/media/4NAhZiqIdmHSw/giphy.gif" /> -->
   
-<img src = "https://media.giphy.com/media/3ohzdD7eLeRtCqZsR2/giphy.gif" />
+<img src = "https://gfycat.com/courteouselaborateguineafowl" />
 
  <!-- <p><a href="https://giphy.com/gifs/anime-girl-cute-fJ1xbyUH5BV5u"></a></p> -->
   <br>

@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h2> 💃 A liitle bit About me</h2>
+  <h2> 💃 <i> A liitle bit About me <i></h2>
   <ul>
      👩‍🎓 I am a senior, studying Computer Science at Columbia University.<br>
      🌟 I am PI-Theta and NSF scholarship recipient<br>

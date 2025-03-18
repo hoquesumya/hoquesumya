@@ -13,12 +13,13 @@
 <div>
   <h3>  👨🏻‍💻 A liitle bit About me</h3>
   <ul>
-     💻 I am a third year undergraudate Computer Science student in Columbia University.<br>
+     💻 I am a senior, studying in Computer Science at Columbia University.<br>
      🌟 I am PI-Theta and NSF scholarship recipient
-    
-     
-      
-   
+     🤖 Love to learn about design and building large-scale application
+  </ul>
+  <h3> 💻 Tech Stack</h3>
+  <ul>
+    Languages: ![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
   </ul>
  </div>
 

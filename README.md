@@ -14,8 +14,8 @@
   <h3>  👨🏻‍💻 A liitle bit About me</h3>
   <ul>
      💻 I am a senior, studying in Computer Science at Columbia University.<br>
-     🌟 I am PI-Theta and NSF scholarship recipient
-     🤖 Love to learn about design and building large-scale application
+     🌟 I am PI-Theta and NSF scholarship recipient<br>
+     🤖 Love to learn about design and building large-scale application<br>
   </ul>
   <h3> 💻 Tech Stack</h3>
   <h4>Languages</h4>
@@ -41,6 +41,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="50" height="50">
 <h4>🖥️ Operating system</h4>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="50" height="50">
  </div>

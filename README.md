@@ -20,6 +20,6 @@
   <h3> 💻 Tech Stack</h3>
   
   #### Languages
-![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png) ![C](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png)
+![Python](https://camo.githubusercontent.com/7824e03d0cd79f85b8b451bb1dea72245d8ecbf39275389ac2df0a3ee9eb5a55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![C](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png)
  </div>
 

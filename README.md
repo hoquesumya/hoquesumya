@@ -19,7 +19,7 @@
   </ul>
   <h3> 💻 Tech Stack</h3>
   <ul>
-    Languages: ![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+    Languages:![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
   </ul>
  </div>
 

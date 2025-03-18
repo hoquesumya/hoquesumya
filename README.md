@@ -18,9 +18,8 @@
      🤖 Love to learn about design and building large-scale application
   </ul>
   <h3> 💻 Tech Stack</h3>
-  <ul>
-    ### Languages
+  
+  ### Languages
 ![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
-  </ul>
  </div>
 

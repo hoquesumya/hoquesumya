@@ -13,9 +13,9 @@
 <div>
   <h2> 💃 A liitle bit About me</h2>
   <ul>
-     👩‍🎓 I am a senior, studying in Computer Science at Columbia University.<br>
+     👩‍🎓 I am a senior, studying Computer Science at Columbia University.<br>
      🌟 I am PI-Theta and NSF scholarship recipient<br>
-     🤖 Love to learn about design and building large-scale applications <br>
+     🤖 Love to learn about designing and building large-scale applications <br>
   </ul>
   <h3> 💻 Tech Stack</h3>
   <h4>Languages</h4>

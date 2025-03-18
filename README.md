@@ -11,11 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h3>  👨🏻‍💻 A liitle bit About me</h3>
+  <h2> 💃 A liitle bit About me</h2>
   <ul>
-     💻 I am a senior, studying in Computer Science at Columbia University.<br>
+     👩‍🎓 I am a senior, studying in Computer Science at Columbia University.<br>
      🌟 I am PI-Theta and NSF scholarship recipient<br>
-     🤖 Love to learn about design and building large-scale application<br>
+     🤖 Love to learn about design and building large-scale applications <br>
   </ul>
   <h3> 💻 Tech Stack</h3>
   <h4>Languages</h4>
